@@ -1,2 +1,3 @@
 # Cybersecurity-Journey
 My cyber security projects, showcasing my ability to use tools effectively.
+As a cybersecurity professional, I am driven by a deep commitment to protecting organizations and individuals from the evolving landscape of digital threats. My technical proficiency in cybersecurity frameworks and tools, combined with strong problem-solving skills, equips me to effectively identify and mitigate security risks. I am passionate about maintaining the confidentiality and privacy of personal data, and I approach every challenge with a strong ethical foundation, ensuring that my actions align with both legal standards and the security goals of the organizations I serve.
